@@ -1,0 +1,1 @@
+// given an array of numbers, find the largest and second largest num 
